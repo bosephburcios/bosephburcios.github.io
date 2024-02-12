@@ -1,7 +1,7 @@
 export default [
     {
         title: 'Portfolio Website',
-        imgUrl: '',
+        imgUrl: 'public/assets/port.png',
         stack: ['React', 'Tailwind', 'Javascript'],
         link: '',
     },
@@ -16,5 +16,23 @@ export default [
         imgUrl: '/assets/hifi.png',
         stack: ['HTML', 'CSS', 'Javascript'],
         link: 'https://devpost.com/software/hifi-m6q3c5',
+    },
+    {
+        title: 'Previous Portfolio',
+        imgUrl: '/assets/previous-port.png',
+        stack: ['HTML', 'CSS', 'Javascript'],
+        link: 'https://bosephburcios.github.io/',
+    },
+    {
+        title: 'Saxophone Youtuber',
+        imgUrl: '/assets/youtube.png',
+        stack: ['100k Views', 'Classical', 'Jazz'],
+        link: 'https://www.youtube.com/@bosephburcios',
+    },
+    {
+        title: 'Jazz Saxophonist',
+        imgUrl: '/assets/sax.png',
+        stack: ['Restaurant Perfomance', 'Jazz'],
+        link: 'https://www.instagram.com/bosephbaxophone/',
     },
 ]
