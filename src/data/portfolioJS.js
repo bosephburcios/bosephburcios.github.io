@@ -1,9 +1,9 @@
 export default [
     {
         title: 'Portfolio Website',
-        imgUrl: '',
+        imgUrl: '/assets/luminescence.png',
         stack: ['React', 'Tailwind', 'Javascript'],
-        link: '',
+        link: 'https://bosephburcios.github.io/',
     },
     {
         title: 'Texas Luminescence Website',

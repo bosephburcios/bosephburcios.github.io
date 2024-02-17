@@ -9,6 +9,6 @@ export default [
         year: '2022',
         title: "Bachelor's Degree in Computer Science",
         duration: '4 Years',
-        details: 'Attended the University of Texas at Austin to pursue a degree in Computer Science. I learned about software development and quantum computing.',
+        details: 'Attended the University of Texas at Austin to pursue a degree in Computer Science. I learned about software development and quantum computing. Mostly self-taught in web development which has been a fun ride! Currently learning React, Nest.JS. and TypeScript.',
     },
 ]
