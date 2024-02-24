@@ -12,6 +12,12 @@ export default [
         link: 'https://texasluminescence.org/',
     },
     {
+        title: 'Pomodoro Timer',
+        imgUrl: 'public/assets/pomodoro.png',
+        stack: ['React', 'CSS', 'Typescript'],
+        link: 'https://pomodoro-app-nine-liart.vercel.app/',
+    },
+    {
         title: 'Hifi Hackathon',
         imgUrl: '/assets/hifi.png',
         stack: ['HTML', 'CSS', 'Javascript'],
@@ -19,12 +25,6 @@ export default [
     },
     {
         title: 'Previous Portfolio',
-        imgUrl: 'public/assets/previous-port.png',
-        stack: ['HTML', 'CSS', 'Javascript'],
-        link: 'https://previous-portfolio-sigma.vercel.app/',
-    },
-    {
-        title: 'Pomodoro Timer',
         imgUrl: 'public/assets/previous-port.png',
         stack: ['HTML', 'CSS', 'Javascript'],
         link: 'https://previous-portfolio-sigma.vercel.app/',
