@@ -1,9 +1,9 @@
 export default [
     {
         title: 'Portfolio Website',
-        imgUrl: '/assets/luminescence.png',
+        imgUrl: 'public/assets/port.png',
         stack: ['React', 'Tailwind', 'Javascript'],
-        link: 'https://bosephburcios.github.io/',
+        link: 'https://bosephburcios-github-io.vercel.app/',
     },
     {
         title: 'Texas Luminescence Website',
@@ -16,5 +16,23 @@ export default [
         imgUrl: '/assets/hifi.png',
         stack: ['HTML', 'CSS', 'Javascript'],
         link: 'https://devpost.com/software/hifi-m6q3c5',
+    },
+    {
+        title: 'Previous Portfolio',
+        imgUrl: 'public/assets/previous-port.png',
+        stack: ['HTML', 'CSS', 'Javascript'],
+        link: 'https://previous-portfolio-sigma.vercel.app/',
+    },
+    {
+        title: 'Pomodoro Timer',
+        imgUrl: 'public/assets/previous-port.png',
+        stack: ['HTML', 'CSS', 'Javascript'],
+        link: 'https://previous-portfolio-sigma.vercel.app/',
+    },
+    {
+        title: 'Saxophone YouTuber',
+        imgUrl: 'public/assets/youtube.png',
+        stack: ['100k Views', 'Classical', 'Jazz'],
+        link: 'www.youtube.com/@bosephburcios',
     },
 ]
